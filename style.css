@@ -32,6 +32,7 @@
     background-color: lightgray;
     font-size: 13px;
     border: 1px solid whitesmoke;
+    padding-left: 280px;
 }
 
 .li {
@@ -111,7 +112,6 @@ footer {
 
 ul {
     margin-top: 22px;
-    padding: 270px;
 }
 
 p {
